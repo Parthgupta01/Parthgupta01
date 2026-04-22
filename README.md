@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Parth Gupta 👋</h1>
 
 <p align="center">
-📍 Based in Indore, India | 💡 Passionate about building data-driven solutions
+📍 Based in Indore, India | 💻 Passionate about building software and data-driven solutions
 </p>
 
 <p align="center">
-Machine Learning | Data Science | Data Analysis | SQL | Python
+Python | Django | FASTAPI | SQL | Data Analysis | Data Analysis
 </p>
 
 ---
@@ -14,9 +14,9 @@ Machine Learning | Data Science | Data Analysis | SQL | Python
 
 Welcome to my GitHub profile! 
 
-I am a B.Tech student and an aspiring Data Scientist with a strong interest in transforming raw data into meaningful insights. I enjoy working on data analysis, machine learning models, and continuously exploring new tools and technologies in the data domain.
+I am a B.Tech student and an aspiring Python Developer with a strong interest in building real-world applications and solving problems through technology. I enjoy working with Python, Django, SQL, and data analysis, while continuously exploring new tools and technologies.
 
-I am always eager to learn, experiment, and improve my problem-solving skills through real-world data challenges.
+I'm always open to collaboration on interesting projects, backend development, or data-driven ideas.
 
 ---
 
