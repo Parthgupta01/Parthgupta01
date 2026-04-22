@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Python | Django | FASTAPI | SQL | Data Analysis | Data Analysis
+Python | Django | FASTAPI | SQL | Data Analysis | Machine Learning
 </p>
 
 ---
